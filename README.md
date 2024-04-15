@@ -17,6 +17,7 @@ governance and various projects.
 
 - 🇺🇸 [Code of conduct](./CODE_OF_CONDUCT.markdown)
 - 🇺🇸 [Contact Form](https://tally.so/r/nr6xWv)
+- [Host a meetup/Accueillir un meetup](https://tally.so/r/mV0kBv)
 
 ## How can you help us?
 
