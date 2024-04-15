@@ -4,14 +4,10 @@
 
 Le groupe React Paris est un groupe qui s'adresse à tous ceux qui souhaitent
 développer et partager leurs connaissances sur le langage React et les
-technologies du Web. Ce dépôt a pour but de centraliser les documents liés à
-l'organisation du groupe ainsi que de gérer la gouvernance et les différents
-projets.
+technologies du Web.
 
 The React Paris group is for anyone who wants to develop and share their
-knowledge of React and Web technologies. This repository aims to centralize
-documents related to the organization of the group as well as to manage
-governance and various projects.
+knowledge of React and Web technologies.
 
 ## Documents
 
