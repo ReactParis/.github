@@ -11,7 +11,7 @@ knowledge of React and Web technologies.
 
 ## Documents
 
-- 🇺🇸 [Code of conduct](./CODE_OF_CONDUCT.markdown)
+- 🇺🇸 [Code of conduct](../CODE_OF_CONDUCT.markdown)
 - [Contact Form](https://tally.so/r/nr6xWv)
 - [Host a meetup/Accueillir un meetup](https://tally.so/r/mV0kBv)
 - [Present a talk/Présenter un talk](https://tally.so/r/nGz2Vj)
