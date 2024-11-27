@@ -30,7 +30,7 @@ governance and various projects.
 
 - [Meetup](https://www.meetup.com/React-Paris/)
 - [Twitter/X](https://twitter.com/reactparismeetup)
-- [Discord](https://discord.gg/QQh9s6gE)
+- [Discord](https://discord.gg/EGeZmfJbKB)
 - [Linkedin](https://www.linkedin.com/groups/13010212/)
 - [Youtube](https://www.youtube.com/@ReactParisMeetup)
 - [Threads](https://www.threads.net/@reactparismeetup)
