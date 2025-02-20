@@ -18,7 +18,9 @@ governance and various projects.
 - 🇺🇸 [Code of conduct](./CODE_OF_CONDUCT.markdown)
 - [Contact Form](https://tally.so/r/nr6xWv)
 - [Host a meetup/Accueillir un meetup](https://tally.so/r/mV0kBv)
-- [Present a talk/Présenter un talk](https://tally.so/r/nGz2Vj)
+- Present a talk/Présenter un talk:
+  - [🇫🇷 Avec votre compte GitHub](https://github.com/ReactParis/talks/issues/new?template=talk-fr.md)
+  - [🇺🇸 With your GitHub account](https://github.com/ReactParis/talks/issues/new?template=talk-en.md)
 
 ## How can you help us?
 
